@@ -8,7 +8,7 @@ require 'rubygems'
 require 'mechanize'
 
 # This url should be the first page, e.g. 1.php rather than wakaba.php. 
-url = "http://www.intern3ts.com/niche/album-covers/"
+url = "http://www.intern3ts.com/general/anime/1.php"
 baseurl = "http://www.intern3ts.com"
 
 # Visit imageboard
