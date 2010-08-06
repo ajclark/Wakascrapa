@@ -1,6 +1,7 @@
 Wakascrapa
 
 Wakascrapa is a Wakaba imageboard scrapper. It was written to download all the images of a given category on a Wakaba board, e.g. http://www.intern3ts.com/general/anime/
+
 The script does clever things such as trying to ignore duplicate HREFs in the html pages, and not to download images which already exist. This is handy for incremental downloading of the latest images posted, or for resuming a run. This script will NOT hammer an imageboard and is generally quite webmaster friendly. It will fetch one image at a time, clicking through links as nessecary
 
 KNOWN QUIRKS: 
