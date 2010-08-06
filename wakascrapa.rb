@@ -14,7 +14,7 @@ baseurl = "http://www.intern3ts.com"
 
 # Visit imageboard
 agent = Mechanize.new
-agent.user_agent = 'w3m/0.52'
+agent.user_agent = 'Wakascrapa'
 page = agent.get(url)
 
 # Find out how many pages the imageboard has ; visit each one
