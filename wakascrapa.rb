@@ -8,8 +8,8 @@ require 'rubygems'
 require 'mechanize'
 
 # This url should be the first page, e.g. 1.php rather than wakaba.php. 
-url = "http://www.tranchan.net/cams/cross-dressing/1.php"
-baseurl = "http://www.tranchan.net"
+url = "http://www.intern3ts.com/niche/album-covers/"
+baseurl = "http://www.intern3ts.com"
 
 # Visit imageboard
 agent = Mechanize.new
