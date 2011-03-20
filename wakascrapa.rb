@@ -1,9 +1,8 @@
 #!/usr/bin/env ruby
 
 # Wakascrapa v0.1 
-# by Allan Clark - <napta2k@gmail.com>
+# by Allan Clark - http://github.con/ajclark/Wakascrapa/
 # This script will download all images in a given category of a wakaba imageboard
-# URL: http://github.com/ajclark/Wakascrapa/
 
 require 'rubygems'
 require 'mechanize'
